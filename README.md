@@ -58,8 +58,8 @@ Passionate about building scalable e-commerce platforms with integrated cryptocu
 
 ### 📈 **GitHub Stats**  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[@EyosiyasGe]&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[@EyosiyasGe]&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username='EyosiyasGe'&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user='EyosiyasGe'&theme=radical" alt="Streak Stats" />
 </div>
 
 ---
