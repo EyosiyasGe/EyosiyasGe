@@ -72,5 +72,6 @@ Passionate about building scalable e-commerce platforms with integrated cryptocu
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&label=Profile+Views&color=blueviolet" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=EyosiyasGe&label=Profile+Views&color=blueviolet" alt="Profile Views" />
+  <p>⚡ Fun fact: I code with ☕ and 🎧!</p>
 </div>
