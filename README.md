@@ -7,7 +7,7 @@
 
 ### 👋 Hi, I’m Eyosiyas Geze  
 **ALX Software Engineering Learner** | **E-Commerce Solutions Builder**  
-https://www.codewars.com/users/EyosiyasGe/badges/large
+
 
 Passionate about building scalable e-commerce platforms with integrated cryptocurrency payments. I thrive on turning complex problems into feasible, user-friendly solutions.  
 
